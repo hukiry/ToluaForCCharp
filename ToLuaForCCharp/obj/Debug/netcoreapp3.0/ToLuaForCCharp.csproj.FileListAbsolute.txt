@@ -1,0 +1,17 @@
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.exe
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.deps.json
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.runtimeconfig.json
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.runtimeconfig.dev.json
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.dll
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\ToLuaForCCharp.pdb
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\CString.dll
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\bin\Debug\netcoreapp3.0\Debugger.dll
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.csproj.AssemblyReference.cache
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.AssemblyInfoInputs.cache
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.AssemblyInfo.cs
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.csproj.CoreCompileInputs.cache
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.csproj.CopyComplete
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.dll
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.pdb
+D:\vs\ToLuaForCCharp\ToLuaForCCharp\obj\Debug\netcoreapp3.0\ToLuaForCCharp.genruntimeconfig.cache

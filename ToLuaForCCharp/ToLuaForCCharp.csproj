@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>ToLuaForCCharp</AssemblyName>
+    <RootNamespace>ToLuaForCCharp</RootNamespace>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;UNITY_STANDALONE_WIN</DefineConstants>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CString">
+      <HintPath>Assets\Plugins\CString.dll</HintPath>
+    </Reference>
+    <Reference Include="Debugger">
+      <HintPath>Assets\Plugins\Debugger.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

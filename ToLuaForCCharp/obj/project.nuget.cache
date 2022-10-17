@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEjJSmBaP+etJB4DPBoL0nT3S6ZBy4S8wx6tPrutUfLri6VzV8eP1zqe/d8oqNik6bifcCo14Y1QlwQe8dDw+Q==",
+  "success": true,
+  "projectFilePath": "D:\\vs\\ToLuaForCCharp\\ToLuaForCCharp\\ToLuaForCCharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huxiongkun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\huxiongkun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\huxiongkun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\huxiongkun\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

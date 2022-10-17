@@ -1,0 +1,6 @@
+
+
+代码生成
+ToLuaMenu.GenLuaAll();
+启动lua
+LuaClient.Instance.Init();
